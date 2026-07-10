@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Keerthan%20D&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Graduate%20%7C%20AI%20%26%20Data%20Science%20%7C%20ML%20%26%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18)
+https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Keerthan%20D&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Graduate%20%7C%20AI%20and%20Data%20Science%20%7C%20ML%20and%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Data+Analytics+%7C+Predictive+Modeling;Building+with+Python%2C+PyTorch+%26+Scikit-learn;Turning+data+into+decisions)](https://git.io/typing-svg)
 
