@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthan819&label=Profile%20views&color=0e75b6&style=flat" alt="keerthan819" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthan819" alt="keerthan819" /></a> </p>
-
 - 🔭 I’m currently working on **Animal-Aware Tracking System for Urban Road Safety**
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, Computer Vision, Google Cloud Platform (GCP), Data Analytics, Software Engineering Best Practices**
